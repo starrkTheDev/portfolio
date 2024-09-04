@@ -10,7 +10,7 @@ const projects = [
         id: "p2",
         title: "Rating-project-nextJS",
         description: "App created for rating games with NextJS",
-        image: "https://i.postimg.cc/wjC1KdZk/obraz.png",
+        image: "https://i.postimg.cc/cJ0HdXFZ/rating.png",
         url: 'https://github.com/starrkTheDev/rating-project-nextJS'
     },
     {
